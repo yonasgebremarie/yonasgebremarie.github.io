@@ -1,7 +1,21 @@
 ---
-title: "yonasgebremarie.github.io"
+title: "Yonas Gebre Marie | Data Science Masters Student"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Welcome
+
+Hello! I'm **Yonas Gebre Marie**, a passionate Data Science master's student at the University of British Columbia (UBC).
+
+## About Me
+
+- 🎓 **Education:**
+	- MSc in Data Science (in progress), UBC
+	- BSc in Mathematics, 2023
+- 💼 **Experience:**
+	- Backend Developer (1 year)
+	- Data Analyst (1 year)
+- 📫 **Contact:** yonasgebre08@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/yonassgebre)
+
+I am driven by curiosity and a love for solving real-world problems with data and technology. Explore my site to learn more about my journey, skills, and projects.

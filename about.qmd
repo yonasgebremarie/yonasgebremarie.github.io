@@ -1,5 +1,27 @@
 ---
-title: "About"
+title: "About Yonas Gebre Marie"
 ---
 
-About this site
+
+# About Me
+
+I am Yonas Gebre Marie, currently pursuing a Master's in Data Science at the University of British Columbia (UBC). I graduated with a BSc in Mathematics in 2023. My professional journey includes one year as a backend developer and another year as a data analyst before starting my master's.
+
+## Education
+- **MSc in Data Science** (in progress), UBC
+- **BSc in Mathematics**, 2023
+
+## Experience
+- **Backend Developer** (1 year)
+- **Data Analyst** (1 year)
+
+## Skills
+- Data Analysis & Visualization
+- Python, R, SQL
+- Machine Learning
+- Backend Development
+- Problem Solving
+
+## Contact
+- **Email:** yonasgebre08@gmail.com
+- **LinkedIn:** [linkedin.com/in/yonassgebre](https://linkedin.com/in/yonassgebre)
