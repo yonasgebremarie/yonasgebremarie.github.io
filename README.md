@@ -1,5 +1,5 @@
 
-# Yonas Gebre Marie | Data Science Masters Student
+# Yonas Gebre Marie | Data Scientist
 
 Welcome to my professional website!
 
